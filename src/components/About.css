@@ -1,0 +1,6 @@
+/* components/About.css */
+.profile-img {
+    max-width: 50%; /* Verkleinere das Bild auf 100% der verfügbaren Breite */
+    height: auto; /* Stelle sicher, dass das Seitenverhältnis beibehalten wird */
+  }
+  
