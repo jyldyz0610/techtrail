@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/techtrail/static/css/main.f8ed7a75.css",
+    "main.js": "/techtrail/static/js/main.9776d96f.js",
+    "static/js/453.acca0757.chunk.js": "/techtrail/static/js/453.acca0757.chunk.js",
+    "static/media/photo.jpg": "/techtrail/static/media/photo.a7f1221e64a6301adc7f.jpg",
+    "index.html": "/techtrail/index.html",
+    "main.f8ed7a75.css.map": "/techtrail/static/css/main.f8ed7a75.css.map",
+    "main.9776d96f.js.map": "/techtrail/static/js/main.9776d96f.js.map",
+    "453.acca0757.chunk.js.map": "/techtrail/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ed7a75.css",
+    "static/js/main.9776d96f.js"
+  ]
+}
